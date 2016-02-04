@@ -1,2 +1,2 @@
 # hello-world
-instruction is worth reading
+Introduction is worth reading
